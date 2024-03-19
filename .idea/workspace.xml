@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b75a926-209e-47fe-933f-40b6c3b8905c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/example/myapp/Aquarium.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/example/myapp/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/example/myapp/TowerTank.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/aquariumfish.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/aquariumfish.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/aquariumfish2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/aquariumfish2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/box.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/box.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/compactfuction1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/compactfuction1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/compactfunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/compactfunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/lambdas&amp;higdorder function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/lambdas&amp;higdorder function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/Hello.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlin/Hello.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kotlin/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kotlin/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kotlin/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/.idea/gradle.xml" afterDir="false" />
@@ -72,13 +75,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="917af897-8a84-469c-bf15-a917e56d1ae3" />
+        <option name="url" value="https://github.com/asammanis89/latihankotlin.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2ctWGyZW0RDW1PRCJNIwxpmKxZW" />
   <component name="ProjectLevelVcsManager">
@@ -88,18 +104,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ResourceManagerPrefKey.ModuleName&quot;: &quot;kotlin.app.main&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/coba-kotlin&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ResourceManagerPrefKey.ModuleName": "kotlin.app.main",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "D:/coba-kotlin/app/src/main/java/com/example/kotlin",
+    "last_opened_file_path": "D:/coba-kotlin"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="kotlin.app.main" />

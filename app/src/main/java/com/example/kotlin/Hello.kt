@@ -1,7 +1,5 @@
 package com.example.kotlin
 
-package com.example.androidkotlin
-
 fun main(args: Array<String>) {
     biodata("Ardha Febrian Muqorrobin", "Madiun" 19)
     hobby(nama1="Mendengarkan Musik"
